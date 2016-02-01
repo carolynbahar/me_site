@@ -30,12 +30,12 @@ h1{
 
 body{
    font-family: Calibre;
-   background-color: #000000;
+   background-color: white;
    padding: 0px;
    margin: 0px;
    width:100%;
-   font-size: 16pt;
-   letter-spacing: .05em;
+   font-size: 1.8em;
+   letter-spacing: .04em;
  }
 
 p{
@@ -67,8 +67,6 @@ p{
 
 .nav-text{
   font-family: Calibre;
-    float: right;
-    font-size: 12pt;
     padding-top: 30px;
 }
 
@@ -76,11 +74,6 @@ p{
     padding-top: 6px;
     padding-bottom: 5px;
     padding-left: 6px;
-}
-
-.categories{
-font-family: Calibre;
-  font-size: 10pt;
 }
 
 .headline{
@@ -99,6 +92,7 @@ font-family: Calibre;
 }
 
 .categories{
+    font-size: .75em;
     padding-top: 3em;
     padding-bottom: 3em;
 }
