@@ -1,3 +1,8 @@
+@font-face {
+    font-family: Calibre;
+    src: url(Calibre-Regular.otf);
+}
+
 .left{
   float: left;
 }
@@ -20,19 +25,21 @@ a:active {
 }
 
 h1{
-    font-family: sans-serif;
+    font-family: Calibre, sans-serif;
 }
 
 body{
+   font-family: Calibre;
    background-color: #000000;
    padding: 0px;
    margin: 0px;
    width:100%;
-   font-size: 14pt;
+   font-size: 16pt;
    letter-spacing: .05em;
  }
 
 p{
+    font-family: Calibre;
     font-size: 14pt;
 }
 
@@ -41,9 +48,10 @@ p{
 }
 
 .nav-mobile{
+  font-family: Calibre;
     margin-top: 15px;
     padding-left: 15px;
-    margin-bottom: -10px;
+    margin-bottom: 15px;
     height: 300px;
     background-color: white;
     font-size: 4em;
@@ -51,19 +59,17 @@ p{
 }
 
 .nav{
+  font-family: Calibre;
     margin-top: 10px;
     height: 90px;
     background-color: white;
 }
 
 .nav-text{
+  font-family: Calibre;
     float: right;
     font-size: 12pt;
     padding-top: 30px;
-}
-
-.dropdown{
-  padding-top: 1.5em;
 }
 
 .logo{
@@ -73,10 +79,12 @@ p{
 }
 
 .categories{
-  font-size: 8.5pt;
+font-family: Calibre;
+  font-size: 10pt;
 }
 
 .headline{
+  font-family: Calibre;
     color: white;
     font-size: 40pt;
     padding-top: 2.75em;
@@ -84,6 +92,7 @@ p{
 }
 
 .info{
+  font-family: Calibre;
     padding-top: 2em;
     padding-bottom: 2em;
     background-color: white;
@@ -107,6 +116,7 @@ p{
 }
 
 .description{
+  font-family: Calibre;
   font-size: 11pt;
 }
 
@@ -116,6 +126,7 @@ p{
 }
 
 .footer{
+  font-family: Calibre;
     padding-top:4em;
     padding-bottom:2em;
 }
