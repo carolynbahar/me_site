@@ -2,6 +2,7 @@
     font-family: 'Calibre';
     src: url(Calibre-Regular.otf);
     src: local('Calibre') format('opentype');
+  }
 
 .left{
   float: left;
@@ -25,11 +26,11 @@ a:active {
 }
 
 h1{
-    font-family: 'Calibre', sans-serif;
+    font-family: Proxima Nova, sans-serif;
 }
 
 body{
-   font-family: 'Calibre';
+   font-family: Proxima Nova, Futura;
    background-color: white;
    padding: 0px;
    margin: 0px;
