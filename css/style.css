@@ -1,9 +1,7 @@
 @font-face {
-    local('Calibre'),
     font-family: 'Calibre';
     src: url(Calibre-Regular.otf);
-    format('opentype');
-}
+    src: local('Calibre') format('opentype');
 
 .left{
   float: left;
