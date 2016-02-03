@@ -1,6 +1,7 @@
 @font-face {
-    font-family: Calibre;
+    font-family: 'Calibre';
     src: url(Calibre-Regular.otf);
+    format('opentype');
 }
 
 .left{
@@ -25,11 +26,11 @@ a:active {
 }
 
 h1{
-    font-family: Calibre, sans-serif;
+    font-family: 'Calibre', sans-serif;
 }
 
 body{
-   font-family: Calibre;
+   font-family: 'Calibre';
    background-color: white;
    padding: 0px;
    margin: 0px;
