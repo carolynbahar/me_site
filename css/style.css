@@ -25,11 +25,11 @@ a:active {
 }
 
 h1{
-    font-family: 'Proxima Nova', sans-serif;
+    font-family: Proxima Nova, sans-serif;
 }
 
 body{
-   font-family: 'Proxima Nova', Futura;
+   font-family: Proxima Nova, Futura;
    background-color: white;
    padding: 0px;
    margin: 0px;
