@@ -1,7 +1,6 @@
 @font-face {
-    font-family: 'Calibre';
-    src: url(Calibre-Regular.otf);
-    src: local('Calibre') format('opentype');
+    font-family: 'Proxima Nova';
+    src: url(ProximaNova-Regular.otf);
   }
 
 .left{
@@ -26,11 +25,11 @@ a:active {
 }
 
 h1{
-    font-family: Proxima Nova, sans-serif;
+    font-family: 'Proxima Nova', sans-serif;
 }
 
 body{
-   font-family: Proxima Nova, Futura;
+   font-family: 'Proxima Nova', Futura;
    background-color: white;
    padding: 0px;
    margin: 0px;
