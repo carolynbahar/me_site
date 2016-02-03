@@ -58,6 +58,14 @@ p{
     line-height: 1.75em;
 }
 
+.extra-space-below{
+  margin-bottom: 50px;
+}
+
+.mobile-menu{
+  padding-top: .35em;
+}
+
 .nav{
   font-family: Futura;
     margin-top: 10px;
