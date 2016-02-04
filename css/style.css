@@ -51,29 +51,6 @@ p{
     font-size: 14pt;
 }
 
-.logo-mobile{
-  padding-left: .5em;
-}
-
-.nav-mobile{
-  font-family: Futura, sans-serif;
-    margin-top: 15px;
-    padding-left: 15px;
-    margin-bottom: 15px;
-    height: 300px;
-    background-color: white;
-    font-size: 4em;
-    line-height: 1.75em;
-}
-
-.extra-space-below{
-  margin-bottom: 50px;
-}
-
-.mobile-menu{
-  padding-top: .35em;
-}
-
 .nav{
   font-family: Futura, sans-serif;
     margin-top: 10px;
@@ -130,10 +107,7 @@ p{
   font-size: 11pt;
 }
 
-.description-mobile{
-  font-family: Futura, sans-serif;
-  padding: 4em;
-}
+
 
 .home-footer{
     color: white;
@@ -151,4 +125,23 @@ p{
   height: 1200px;
   padding: 0px;
   margin: 0px;
+}
+
+
+
+
+
+/* MOBILE SPECIFIC CSS */
+
+.nav-mobile{
+  font-family: Futura, sans-serif;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+  background-color: white;
+  font-size: 2em;
+}
+
+.description-mobile{
+  font-family: Futura, sans-serif;
+  padding: 4em;
 }
