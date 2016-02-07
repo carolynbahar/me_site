@@ -108,6 +108,13 @@ p{
   padding-bottom:3em;
 }
 
+.footer-about{
+  color: white;
+  font-family: Futura, sans-serif;
+  padding-top:4em;
+  padding-bottom:3em;
+}
+
 #gradient{
   width: 100%;
   height: 1200px;
